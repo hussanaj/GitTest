@@ -1,4 +1,4 @@
-![GitHub Logo](JJ.JPG)
+![GitHub Logo](img.jpg)
 # Good Morning
 * my name is **hussana jehalee**
 * you can call me **Husna**
